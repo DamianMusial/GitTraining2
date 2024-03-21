@@ -3,7 +3,7 @@ class Foo:
         self.b = b
     
     def method(self):
-        print('method')
+        print('DAMIAN')
 
     def method2(self):
         pass
