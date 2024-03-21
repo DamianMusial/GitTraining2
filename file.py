@@ -4,3 +4,6 @@ class Foo:
     
     def method(self):
         print('method')
+
+    def method2(self):
+        pass
