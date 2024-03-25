@@ -3,7 +3,9 @@ class Foo:
         self.b = b
     
     def method(self):
-        print('AREK')
+        print('AREK-PAREK')
+        a = 10
+        return a
 
     def method2(self):
         pass
