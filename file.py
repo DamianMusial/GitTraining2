@@ -8,3 +8,7 @@ class Foo:
 
     def method2(self):
         pass
+
+
+class Foo2:
+    ...
